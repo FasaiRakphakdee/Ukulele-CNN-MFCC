@@ -47,4 +47,6 @@ NOTE: There is no strong intensity for all chord.
 - 01 : no noise
 - 02 : have mic noise
 
+  Basic-Chord-Ukulele-Dataset by Fasai Rakphakdee is marked with CC0 1.0 Universal 
+
 
