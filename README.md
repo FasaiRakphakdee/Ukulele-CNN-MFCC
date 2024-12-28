@@ -1,5 +1,10 @@
 # Ukulele-CNN-MFCC
 Learning and Recognizing Basic Ukulele Chords Using a  Convolutional Neural Network (CNN)
+
+## download Dataset
+download Dataset name " Basic-Chord-Ukulele-Dataset " from Kaggle
+https://www.kaggle.com/datasets/rakphakdeefasai/basic-chord-ukulele-dataset
+
 ## Modality 
 - 01 : full-AV
 - 02 : video-only
